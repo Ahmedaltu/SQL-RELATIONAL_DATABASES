@@ -1,9 +1,9 @@
 CREATE TABLE STUDENT (
-   studentid	INTEGER	       primary key,
-   forename	    VARCHAR(32)	   NOT NULL,
-   surname	    VARCHAR(60)	   NOT NULL,
-   address	    VARCHAR(100),	
-   phonenum  	VARCHAR(15)
+    studentid	INTEGER	       primary key,
+    forename	    VARCHAR(32)	   NOT NULL,
+    surname	    VARCHAR(60)	   NOT NULL,
+    address	    VARCHAR(100),	
+    phonenum  	VARCHAR(15)
 );
 
 
