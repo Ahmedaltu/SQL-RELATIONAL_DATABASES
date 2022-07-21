@@ -1,29 +1,29 @@
 CREATE TABLE STUDENT (
-   studentid	INTEGER	       primary key,
+   studentid	    INTEGER	   primary key,
    forename	    VARCHAR(32)	   NOT NULL,
    surname	    VARCHAR(60)	   NOT NULL,
    address	    VARCHAR(100),	
-   phonenum  	VARCHAR(15)
+   phonenum  	    VARCHAR(15)
 );
 
 
 
 CREATE TABLE COURSE (
 
-	courseid	INTEGER	    primary key,
-    name	    VARCHAR(32)	NOT NULL,
-    starts	    DATE
+    courseid	   INTEGER	   primary key,
+    name	   VARCHAR(32)	   NOT NULL,
+    starts	   DATE
 );
 
 
 
 CREATE TABLE GRADE (
 
-	StudentID	INTEGER,
+    StudentID	INTEGER,
     CourseID	INTEGER,
-    Grade	    INTEGER     NOT NULL,
+    Grade	INTEGER     NOT NULL,
 	
-	PRIMARY KEY(StudentID, CourseID),
+    PRIMARY KEY(StudentID, CourseID),
 
     FOREIGN KEY(StudentID) REFERENCES Student(StudentID),
     FOREIGN KEY(CourseID) REFERENCES Course(CourseID)
