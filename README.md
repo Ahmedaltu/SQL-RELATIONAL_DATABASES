@@ -5,7 +5,7 @@ DBMS: Database Managment system, is a software componnet in the database system.
 
 SQL (Structed Ouery Langauage) used to exchange commands between users and DBMS Sftware.
 
-Record = Row = Tuple
+Record = Row = Tuple.   
 Attribute = Column = Properties
 
 
