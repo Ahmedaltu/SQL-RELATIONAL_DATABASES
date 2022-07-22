@@ -15,7 +15,7 @@ Primary keys = special attribute that can not be duplicate for more than a recor
 Comosite keys= combinind two or more attributes values to form a primary key.
 
 
-Entity = is a phenomenon that is found on the modeled target area.
+Entity = is a phenomenon that is found on the modeled target area.    
 Relationship = The relation between two entities (studen-> class, employee-> comany).   
 
 
