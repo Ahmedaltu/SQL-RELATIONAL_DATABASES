@@ -21,6 +21,6 @@ Relationship = The relation between two entities (studen-> class, employee-> com
 
 Relationship degree:
 
-1:1  "one_to_one",    City -> mayor.   
-1:N  "one_to_many",    Company -> Employee.     
-M:N  "many_to_many",    Student -> course. 
+1:1    "one_to_one",       City -> mayor.   
+1:N    "one_to_many",      Company -> Employee.     
+M:N    "many_to_many",     Student -> course. 
