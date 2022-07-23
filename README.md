@@ -1,5 +1,5 @@
 # SQL-RELATIONAL_DATABASES
-Database : orgnised collection of datat.  
+#Database# : orgnised collection of datat.  
 DBMS: Database Managment system, is a software componnet in the database system. DBMS employed so user can access to the data, DBMS are the perator between user and database.
 
 
