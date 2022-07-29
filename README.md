@@ -30,7 +30,8 @@ Integrity Rules (Integrity constraints) decided during design procedure. Example
 OR. \
 "Upon adding a new student, the student has to be associated with at least one nuiversity".   
 
---Integrity rules has to be followed to avoid data corrupting and ensuring reliable data.  
+-- Integrity rules has to be followed to avoid data corrupting and ensuring reliable data.  
+
 ------------
 ### Create database
 
