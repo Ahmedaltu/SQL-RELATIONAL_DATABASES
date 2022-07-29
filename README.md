@@ -27,7 +27,7 @@ M:N    "many_to_many",     Student -> course.
 
 --------------------------
 Integrity Rules (Integrity constraints) decided during design procedure. Example of integrity constaints, "THe cost of product X is always between 0-100 EUR ".   
-OR.  "Upon adding a new student, the student has to be associated with at least one nuiversity".   
+OR. \  "Upon adding a new student, the student has to be associated with at least one nuiversity".   
 
 -- Integrity rules has to be followed to avoid data corrupting and ensuring reliable data.  
 ------------
