@@ -33,8 +33,8 @@ OR.  "Upon adding a new student, the student has to be associated with at least 
 ------------
 ### Create database
 
-* To create database\n 
+* To create database\ 
   CREATE DATABASE databaseName;
  
-* To delete datatbase
+* To delete datatbase/
   DROP DATABASE databaseName
