@@ -55,3 +55,6 @@ WHERE city ='Little Town' OR city ='Creek-on-Trent';
 
 SELECT title FROM book
 WHERE (AuthorID = 204 AND pages > 1000) OR (AuthorID = 202 AND price > 20);
+
+
+
