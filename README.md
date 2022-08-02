@@ -12,7 +12,7 @@ Attribute = Column = Properties
 Cell hols single piece of data.
 
 Primary keys = special attribute that can not be duplicate for more than a record, should be a unique value.   
-Comosite keys= combinind two or more attributes values to form a primary key.
+Composite keys= combinind two or more attributes values to form a primary key.
 
 
 Entity = is a phenomenon that is found on the modeled target area.    
