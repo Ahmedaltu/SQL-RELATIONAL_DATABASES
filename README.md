@@ -40,3 +40,9 @@ OR. \
  
 * To delete datatbase \
   DROP DATABASE databaseName
+  
+  
+  
+  -----------------------------------
+  
+  
