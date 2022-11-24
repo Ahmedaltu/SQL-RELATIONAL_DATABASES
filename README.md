@@ -47,7 +47,7 @@ OR. \
 ### SQL Aggregate Functions:
 
 1- AVG: CALCULATE THE AVERAGE \
-SELECT AVG(Price) FROM Product;
+   SELECT AVG(Price) FROM Product;
 
 2- MAX: FIND THE LARGEST VALUE \
 SELECT MAX(Price) FROM Product;
