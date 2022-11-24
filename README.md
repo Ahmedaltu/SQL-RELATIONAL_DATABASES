@@ -67,7 +67,7 @@ SELECT MOD(X-Coordinate, Y-Coordinate) FROM Object;
   
 7- ROUND: ROUND TO A NUMBER OF DECIMALS \
 List all the prices. Round each price to one decimal place. \
-SELECT ROUND(Price, 1) FROM Product; \
+SELECT ROUND(Price, 1) FROM Product; 
 
 
 
