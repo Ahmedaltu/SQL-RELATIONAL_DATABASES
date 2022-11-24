@@ -21,3 +21,9 @@ SELECT AVG(pages)
 SELECT AVG(price), MAX(Price), MIN(Price)
   FROM book
   WHERE price >20 AND price<30
+  
+  
+  
+  
+  
+  
