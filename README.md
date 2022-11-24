@@ -46,10 +46,10 @@ OR. \
 -----------------------------------
 ### SQL Aggregate Functions:
 
-1- AVG: CALCULATE THE AVERAGE
+1- AVG: CALCULATE THE AVERAGE \
 SELECT AVG(Price) FROM Product;
 
-2- MAX: FIND THE LARGEST VALUE
+2- MAX: FIND THE LARGEST VALUE \
 SELECT MAX(Price) FROM Product;
 
 3- MIN: FIND THE SMALLEST VALUE
