@@ -50,24 +50,24 @@ OR. \
  $~~~$ SELECT AVG(Price) FROM Product;
 
 2- MAX: FIND THE LARGEST VALUE \
-SELECT MAX(Price) FROM Product;
+$~~~$ SELECT MAX(Price) FROM Product;
 
 3- MIN: FIND THE SMALLEST VALUE \
-SELECT MIN(Price) FROM Product;
+$~~~$ SELECT MIN(Price) FROM Product;
 
 4- SUM: CALCULATE THE TOTAL SUM \
-SELECT SUM(Price) FROM Product;
+$~~~$ SELECT SUM(Price) FROM Product;
 
 5- ABS: RETURN THE ABSOLUTE VALUE \
-SELECT ABS(X-Coordinate)FROM Object;
+$~~~$ SELECT ABS(X-Coordinate)FROM Object;
 
 6- MOD: CALCULATE THE REMINDER \
-MOD returns the reminder of value1 divided by value2. It is of the form: MOD(number1, number2) \
-SELECT MOD(X-Coordinate, Y-Coordinate) FROM Object;
+$~~~$ MOD returns the reminder of value1 divided by value2. It is of the form: MOD(number1, number2) \
+$~~~$ SELECT MOD(X-Coordinate, Y-Coordinate) FROM Object;
   
 7- ROUND: ROUND TO A NUMBER OF DECIMALS \
-List all the prices. Round each price to one decimal place. \
-SELECT ROUND(Price, 1) FROM Product; 
+$~~~$ List all the prices. Round each price to one decimal place. \
+$~~~$ SELECT ROUND(Price, 1) FROM Product; 
 
 
 
